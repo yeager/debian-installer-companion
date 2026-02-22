@@ -1,7 +1,7 @@
 [main]
 host = https://www.transifex.com
 
-[o:danielnylander:p:debian-installer-companion:r:debian-installer-companion-pot]
+[o:danielnylander:p:debian-installer-companion:r:debian_installer_companion]
 file_filter = po/<lang>.po
 source_file = po/debian-installer-companion.pot
 source_lang = en

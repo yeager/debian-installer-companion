@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the debian-installer-companion package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: debian-installer-companion 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: 2026-02-22 07:13+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305204/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/debian_installer_companion/main.py:57
+#: src/debian_installer_companion/main.py:60
+msgid "CPU"
+msgstr "CPU"
+
+#: src/debian_installer_companion/main.py:60
+#: src/debian_installer_companion/main.py:73
+msgid "Unknown"
+msgstr "Okänt"
+
+#: src/debian_installer_companion/main.py:70
+#: src/debian_installer_companion/main.py:73
+msgid "RAM"
+msgstr "RAM"
+
+#: src/debian_installer_companion/main.py:81
+msgid "Disk"
+msgstr "Disk"
+
+#: src/debian_installer_companion/main.py:90
+msgid "Network"
+msgstr "Nätverk"
+
+#: src/debian_installer_companion/main.py:90
+msgid "None detected"
+msgstr "Ingen upptäcktes"
+
+#: src/debian_installer_companion/main.py:101
+#: src/debian_installer_companion/main.py:109
+#: src/debian_installer_companion/main.py:304
+msgid "Debian Installer Companion"
+msgstr "Debians installationskompis"
+
+#: src/debian_installer_companion/main.py:114
+msgid "Run Checks"
+msgstr "Kör kontroller"
+
+#: src/debian_installer_companion/main.py:121
+#: src/debian_installer_companion/main.py:261
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/debian_installer_companion/main.py:122
+msgid "Copy Debug Info"
+msgstr "Kopiera felsökningsinformation"
+
+#: src/debian_installer_companion/main.py:123
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/debian_installer_companion/main.py:124
+msgid "About Debian Installer Companion"
+msgstr "Om Debians installationskompis"
+
+#: src/debian_installer_companion/main.py:143
+msgid "Hardware Check"
+msgstr "Hårdvarukontroll"
+
+#: src/debian_installer_companion/main.py:144
+msgid "Click 'Run Checks' to verify hardware compatibility with Debian."
+msgstr ""
+"Klicka på ”Kör kontroller” för att verifiera hårdvarukompatibilitet med "
+"Debian."
+
+#: src/debian_installer_companion/main.py:154
+msgid "Ready"
+msgstr "Redo"
+
+#: src/debian_installer_companion/main.py:169
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/debian_installer_companion/main.py:175
+msgid "Welcome to Debian Installer Companion"
+msgstr "Välkommen till Debians installationskompis"
+
+#: src/debian_installer_companion/main.py:176
+msgid ""
+"Prepare for Debian installation.\n"
+"\n"
+"✓ Hardware compatibility check\n"
+"✓ Disk space requirements\n"
+"✓ Network interface detection\n"
+"✓ Firmware availability\n"
+"✓ Installation checklist"
+msgstr ""
+"Förbered dig för Debian-installationen.\n"
+"\n"
+"✓ Kontrollera hårdvarukompatibilitet\n"
+"✓ Krav på diskutrymme\n"
+"✓ Detektering av nätverksgränssnitt\n"
+"✓ Tillgänglighet för fast programvara\n"
+"✓ Checklista för installation"
+
+#: src/debian_installer_companion/main.py:183
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: src/debian_installer_companion/main.py:206
+msgid "Checking hardware..."
+msgstr "Kontrollerar hårdvara..."
+
+#: src/debian_installer_companion/main.py:230
+#, python-format
+msgid "%(ok)d / %(total)d checks passed"
+msgstr "%(ok)d / %(total)d kontroller gjorda"
+
+#: src/debian_installer_companion/main.py:264
+msgid "Checks"
+msgstr "Kontroller"
+
+#: src/debian_installer_companion/main.py:265
+msgid "Check firmware availability"
+msgstr "Kontrollera tillgängligheten av fast programvara"
+
+#: src/debian_installer_companion/main.py:285
+msgid "Debug info copied"
+msgstr "Felsökningsinformation kopierades"
+
+#: src/debian_installer_companion/main.py:291
+msgid "General"
+msgstr "Allmänt"
+
+#: src/debian_installer_companion/main.py:293
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/debian_installer_companion/main.py:294
+msgid "Keyboard shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/debian_installer_companion/main.py:311
+msgid "Guide through Debian installation with hardware compatibility checks."
+msgstr ""
+"Guide genom Debian-installationen med kontroller för hårdvarukompatibilitet."
