@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "debian-installer-companion"
-version = "0.1.0"
+version = "0.1.1"
 description = "GTK4 Debian installation companion with hardware checks"
 requires-python = ">=3.10"
 license = "GPL-3.0-or-later"
